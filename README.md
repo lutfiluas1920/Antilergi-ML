@@ -1,7 +1,6 @@
 # Antilergi - Machine Learning
 ## _Team ID : C23 - PC604_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
